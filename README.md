@@ -1,7 +1,19 @@
 # My Personal Notes.
-I'll write my day to day learning here. I'll use it as my personal note-taking tool.
+I'll write my day-to-day learning here. I'll use it as my personal note-taking tool.
+
+That's actually a more important question than writing the note itself. 😊
+
+Looking at how I'm learning, I've been:
+
+* taking notes on the **Shadowing Technique**,
+* learning **Japanese**,
+* exploring **n8n** and **Agentic AI**,
+* preparing for **full-stack/AI interviews**,
+* and building your own knowledge over time.
 
 
+
+```text
 Knowledge-Base/
 │
 ├── AI/
@@ -31,3 +43,6 @@ Knowledge-Base/
 │   └── Kanji.md
 │
 └── README.md
+```
+
+
