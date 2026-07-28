@@ -46,6 +46,13 @@ Personal_notes
 |    │   ├── Flask.md
 |    │   ├── Django.md
 |    │   └── FastAPI.md
+|    |
+|    |-- English/
+│    │    ├── Shadowing.md
+│    |    ├── Vocabulary.md
+│    |    ├── Idioms & Phrases.md
+│    |    ├── Pronunciation.md
+│    |    └── Grammar.md
 |    │
 |    ├── Japanese/
 |        ├── Kana.md
