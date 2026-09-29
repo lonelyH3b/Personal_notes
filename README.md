@@ -44,6 +44,13 @@ Personal_notes
 |    |.  |__ allowing_builtin_js_modules.md
 |    |   |__ Passing JONG Between Nodes.md
 |    |   |__ env_var_access.md
+|    |
+|    |
+|    |__ git/
+|    |    |-- gititnore_not_hiding.md
+|    |
+|    |
+|    |
 |    │
 |    ├── Backend/
 |    │   ├── Flask.md
