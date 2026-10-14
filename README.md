@@ -2,7 +2,7 @@
 
 A collection of technical notes, debugging experiences, and concepts I learn while building software.
 
-![](media\banner.png)
+![](media/banner.png)
 
 This repository is my personal knowledge base, maintained in public so that others can benefit from the same lessons.
 
@@ -48,7 +48,7 @@ Personal_notes
 |    |
 |    |__ git/
 |    |    |-- gititnore_not_hiding.md
-|    |
+|    |    |-- clear_commit.md
 |    |
 |    |
 |    │
