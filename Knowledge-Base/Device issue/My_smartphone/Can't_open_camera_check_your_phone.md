@@ -33,6 +33,7 @@ Actions recorded in my notebook:
 1. Checked WhatsApp camera permissions.
 2. Investigated the Camera application settings.
 3. Cleared the Camera application's data.
+4. Restart the device.
 
 ## 5. Result
 
