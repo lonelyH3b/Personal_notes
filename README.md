@@ -41,7 +41,7 @@ Personal_notes
 |    │   ├── Webhooks.md
 |    │   ├── AI Agent Workflow.md
 |    │   └── Common Errors.md
-|    |.  |__ allowing_builtin_js_modules.md
+|    |   |__ allowing_builtin_js_modules.md
 |    |   |__ Passing JONG Between Nodes.md
 |    |   |__ env_var_access.md
 |    |   |__ poll_time.md
@@ -50,6 +50,9 @@ Personal_notes
 |    |    |-- gititnore_not_hiding.md
 |    |    |-- clear_commit.md
 |    |
+|    |___ Device issue
+|    |     |-- My_smartphone
+|    |     |    |__ Can't_open_camera_check_your_phone.md
 |    |
 |    │
 |    ├── Backend/
